@@ -16,4 +16,8 @@ Using passport.js to add cookies and sessions.
 
 Implement sign-in with Google.
 
+**Technologies used:**
+
+HTML, CSS, Javascript, EJS templating, Express, MongoDB, mongoose.
+
 
