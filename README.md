@@ -18,6 +18,6 @@ Implement sign-in with Google.
 
 **Technologies used:**
 
-HTML, CSS, Javascript, EJS templating, Express, MongoDB, mongoose.
+HTML, CSS, Javascript, EJS templating, Express, MongoDB, mongoose, export-session, passport.
 
 
