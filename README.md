@@ -1,10 +1,10 @@
 # anonymous-App
 
-An app where members can post secrets anonymously.
+An app where members can post their secrets anonymously.
 
 Different level of authentication: 
 
-Register users using email and password.
+Register users using email and simple password.
 
 Database encryption via mongoose-encryption.
 
@@ -18,6 +18,6 @@ Implement sign-in with Google.
 
 **Technologies used:**
 
-HTML, CSS, Javascript, EJS templating, Express, MongoDB, mongoose.
+HTML, CSS, Javascript, Node.js, EJS templating, Express, MongoDB, mongoose, export-session, passport.
 
 
